@@ -1,0 +1,1 @@
+Google Homepage copy for Odin project (responsive web design)
